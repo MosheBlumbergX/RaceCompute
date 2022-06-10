@@ -1,9 +1,11 @@
 # RaceCompute
 
-Step by step on how to make easy race results entries and compute
+Step by step on how to make easy race results entries and compute. 
+Example in google sheet 
 
 ## Full export from entrant site  
 
+Example: [ExportFromRaceSite](https://docs.google.com/spreadsheets/d/1NWXwv5VSuLRH6ptMHkPPIhTXmVkEqkVxTKUloUXtz4E/edit#gid=279737281) sheet.   
 A normal export from an entry site will have the following columns:  
 ```
 Event
@@ -68,7 +70,7 @@ VoucherTitle
 
 ### Raw sheet 
 
-Example: [Raw](https://docs.google.com/spreadsheets/d/1NWXwv5VSuLRH6ptMHkPPIhTXmVkEqkVxTKUloUXtz4E/edit#gid=681996296)
+Example: [Raw](https://docs.google.com/spreadsheets/d/1NWXwv5VSuLRH6ptMHkPPIhTXmVkEqkVxTKUloUXtz4E/edit#gid=681996296) sheet.
 
 You need only the followings for the RAW sheet:  
 ```
@@ -126,9 +128,17 @@ When all are entered (or majority as this can be added later), sort by `RESULT` 
 |   101   |                 6 |  0:31:01 |
 
 
+#### Auto fill numbers
+
+* Type a value in the next cell to establish a pattern.
+  * Tip: For example, if you want the series 1, 2, 3, 4, 5..., type 1 and 2 in the first two cells. If you want the series 2, 4, 6, 8..., type 2 and 4.
+* Select the cells that contain the starting values.
+* Drag the fill handle across the range that you want to fill.
+
+
 ### Results-Full-From-Entry-System
 
-Example: [Results-Full-From-Entry-System](https://docs.google.com/spreadsheets/d/1NWXwv5VSuLRH6ptMHkPPIhTXmVkEqkVxTKUloUXtz4E/edit#gid=1703698175)
+Example: [Results-Full-From-Entry-System](https://docs.google.com/spreadsheets/d/1NWXwv5VSuLRH6ptMHkPPIhTXmVkEqkVxTKUloUXtz4E/edit#gid=1703698175) sheet.
 
 ```
 FirstName
