@@ -89,17 +89,17 @@ CAT AGE
 CAT-G|F
 ```  
 
-Compute 1:  
+#### Compute 1:  
 Takes the age on day column and fit it into the right category of age
 ```
 =ArrayFormula(vlookup(E2:E86,I2:I8,1))
 ```  
-Compute 2: 
+#### Compute 2: 
 Takes the age group and the gender column and connects it.  
 ```
 =(B2&K2)
 ```  
-Compute 3:  
+#### Compute 3:  
 Takes the new `<gender><ageGroup>` and filter out the senior portion. 
 
 
