@@ -68,8 +68,7 @@ VoucherTitle
 
 ### Raw sheet 
 
-Example:  
-[Raw](https://docs.google.com/spreadsheets/d/1NWXwv5VSuLRH6ptMHkPPIhTXmVkEqkVxTKUloUXtz4E/edit#gid=681996296)
+Example: [Raw](https://docs.google.com/spreadsheets/d/1NWXwv5VSuLRH6ptMHkPPIhTXmVkEqkVxTKUloUXtz4E/edit#gid=681996296)
 
 You need only the followings for the RAW sheet:  
 ```
@@ -86,8 +85,6 @@ Categories
 CAT AGE
 CAT-G|F
 ```  
-Example:  
-[Raw](https://docs.google.com/spreadsheets/d/1NWXwv5VSuLRH6ptMHkPPIhTXmVkEqkVxTKUloUXtz4E/edit#gid=681996296)
 
 Compute 1:  
 Takes the age on day column and fit it into the right category of age
@@ -106,8 +103,7 @@ Takes the new `<gender><ageGroup>` and filter out the senior portion.
 
 ### RaceNumberPositionResult
 
-Example:  
-[RaceNumberPositionResult](https://docs.google.com/spreadsheets/d/1NWXwv5VSuLRH6ptMHkPPIhTXmVkEqkVxTKUloUXtz4E/edit#gid=1672809147) sheet.  
+Example: [RaceNumberPositionResult](https://docs.google.com/spreadsheets/d/1NWXwv5VSuLRH6ptMHkPPIhTXmVkEqkVxTKUloUXtz4E/edit#gid=1672809147) sheet.  
 
 A table with 3 columns:  
 ```
@@ -132,8 +128,7 @@ When all are entered (or majority as this can be added later), sort by `RESULT` 
 
 ### Results-Full-From-Entry-System
 
-Example:  
-[Results-Full-From-Entry-System](https://docs.google.com/spreadsheets/d/1NWXwv5VSuLRH6ptMHkPPIhTXmVkEqkVxTKUloUXtz4E/edit#gid=1703698175)
+Example: [Results-Full-From-Entry-System](https://docs.google.com/spreadsheets/d/1NWXwv5VSuLRH6ptMHkPPIhTXmVkEqkVxTKUloUXtz4E/edit#gid=1703698175)
 
 ```
 FirstName
