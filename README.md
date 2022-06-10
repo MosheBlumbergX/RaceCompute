@@ -153,14 +153,14 @@ RESULT
 Local Winner
 ```
 
-Compute 1:  
+#### Compute 1:  
 
 Check to position based on time and race number logged in the [RaceNumberPositionResult](https://docs.google.com/spreadsheets/d/1NWXwv5VSuLRH6ptMHkPPIhTXmVkEqkVxTKUloUXtz4E/edit#gid=1672809147) sheet.  
 ```
 =VLOOKUP(G2,RaceNumberPositionResult!A:C,2,False)
 ```
 
-Compute 2:  
+#### Compute 2:  
 
 Check to result based on time and race number logged in the [RaceNumberPositionResult](https://docs.google.com/spreadsheets/d/1NWXwv5VSuLRH6ptMHkPPIhTXmVkEqkVxTKUloUXtz4E/edit#gid=1672809147) sheet.  
 
