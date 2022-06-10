@@ -1,7 +1,7 @@
 # RaceCompute
 
 Step by step on how to make easy race results entries and compute. 
-Example in google sheet 
+[Example in google sheet ](https://docs.google.com/spreadsheets/d/1NWXwv5VSuLRH6ptMHkPPIhTXmVkEqkVxTKUloUXtz4E)
 
 ## Full export from entrant site  
 
