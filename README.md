@@ -153,6 +153,9 @@ RESULT
 Local Winner
 ```
 
+Copy the values only from columns `FirstName,Surname,Club,Team,RaceNumber,CATEGORY` of the [Raw](https://docs.google.com/spreadsheets/d/1NWXwv5VSuLRH6ptMHkPPIhTXmVkEqkVxTKUloUXtz4E/edit#gid=681996296) sheet. 
+
+
 #### Compute 1:  
 
 Check to position based on time and race number logged in the [RaceNumberPositionResult](https://docs.google.com/spreadsheets/d/1NWXwv5VSuLRH6ptMHkPPIhTXmVkEqkVxTKUloUXtz4E/edit#gid=1672809147) sheet.  
